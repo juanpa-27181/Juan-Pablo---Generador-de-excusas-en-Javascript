@@ -2,18 +2,18 @@
 
 Este proyecto es ideal para evitar algún inconveniente. No toma más de 20 líneas de código y puede salvarte por el resto de tu vida.
 
-## 🎯 Objetivo
+##  Objetivo
 
 Queríamos un proyecto que usara muy poco JavaScript, pero que tuviese una aplicación muy divertida, el generador de excusas toma 20 líneas de código, es súper simple de entender y es el primer proyecto perfecto para cualquier desarrollador principiante.
 
-## 🛠 Instrucciones
+##  Instrucciones
 
 1. Por favor, crea un pequeño sitio web que genere una excusa cada vez que se refresca la página, debes ver así:  
-   **👉 [Ver la animación de demostración](#)**
+   ** [Ver la animación de demostración](#)**
 
 ---
 
-### 🧠 ¿Cómo podemos generar una excusa? ¿Cómo se construyen las oraciones?
+###  ¿Cómo podemos generar una excusa? ¿Cómo se construyen las oraciones?
 
 **Ejemplo de excusa generada:**
 
@@ -24,7 +24,7 @@ Queríamos un proyecto que usara muy poco JavaScript, pero que tuviese una aplic
 
 ---
 
-## 💡 Pistas:
+##  Pistas:
 
 - En el archivo `index.html` inventa una excusa nueva, sin JS, solo una excusa en HTML puro y simple.
 - La excusa debe estar dentro de una etiqueta HTML que tenga un `id` asignado, por ejemplo:
